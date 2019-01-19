@@ -1,3 +1,6 @@
+自己分析的插件化管理机制，免安装运行是在[intercept-activity][9]中，主要解决了资源的插件化问题。
+
+
 # understand-plugin-framework
 分析[DroidPlugin][1]，深入理解插件化框架，内容如下：
 
@@ -25,3 +28,4 @@
 [6]: http://weishu.me/2016/04/05/understand-plugin-framework-classloader/
 [7]: http://weishu.me/2016/04/12/understand-plugin-framework-receiver/
 [8]: http://weishu.me/2016/05/11/understand-plugin-framework-service/
+[9]: https://github.com/TmacZhang/virtualapp_jin/tree/master/intercept-activity
