@@ -19,6 +19,8 @@
 - DroidPlugin框架缺陷
 - 不同插件框架方案对比
 - 插件化的未来
+- [资源的管理独立式 Resource hook][10]
+
 
 [1]: https://github.com/DroidPluginTeam/DroidPlugin
 [2]: http://weishu.me/2016/01/28/understand-plugin-framework-proxy-hook/
@@ -29,3 +31,4 @@
 [7]: http://weishu.me/2016/04/12/understand-plugin-framework-receiver/
 [8]: http://weishu.me/2016/05/11/understand-plugin-framework-service/
 [9]: https://github.com/TmacZhang/virtualapp_jin/tree/master/intercept-activity
+[10]:https://blog.csdn.net/jonas_xu/article/details/79289530
