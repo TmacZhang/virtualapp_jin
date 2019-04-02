@@ -1,4 +1,4 @@
-自己分析的插件化管理机制，免安装运行是在[intercept-activity][9]中，主要解决了资源的插件化问题。
+自己分析的插件化管理机制，免安装运行是在[intercept-activity][9]中，主要解决了资源的插件化问题，具体请参考[资源的管理独立式 Resource hook][10]
 
 
 # understand-plugin-framework
@@ -19,7 +19,6 @@
 - DroidPlugin框架缺陷
 - 不同插件框架方案对比
 - 插件化的未来
-- [资源的管理独立式 Resource hook][10]
 
 
 [1]: https://github.com/DroidPluginTeam/DroidPlugin
